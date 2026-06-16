@@ -9,6 +9,6 @@ else if(numero < 0){
     alert(`número ${numero} é negativo`);
 }
 else{
-    console.log(`número ${numero} é exatamente zero`)
-    alert(`número ${numero} é exatamente zero`)
+    console.log(`número ${numero} é exatamente zero`);
+    alert(`número ${numero} é exatamente zero`);
 }
