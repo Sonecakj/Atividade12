@@ -1,9 +1,9 @@
 let idade = Number(prompt("Digite sua idade"));
 if(idade >= 18){
-    console.log(`Acesso liberado: Maior de idade`)
-    alert(`Acesso liberado: Maior de idade`)
+    console.log(`Acesso liberado: Maior de idade`);
+    alert(`Acesso liberado: Maior de idade`);
 }
 else{
-    console.log(`Acesso negado: Menor de idade`)
-    alert(`Acesso negado: Menor de idade`)
+    console.log(`Acesso negado: Menor de idade`);
+    alert(`Acesso negado: Menor de idade`);
 }
